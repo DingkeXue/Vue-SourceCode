@@ -3,7 +3,7 @@
  * 其中有多个子节点又分为：1.有key 2.无key 
  * 使用枚举对象来表示子节点个数
  * */
- const ChilrenFlags = {
+const ChilrenFlags = {
 	 // 未知的 children 类型
 	 UNKONWN_CHILDREN: 0,
 	 // 没有 children

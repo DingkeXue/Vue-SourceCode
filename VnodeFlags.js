@@ -5,7 +5,7 @@
  * 使用 flags 来表示 Vnode 的不同类型
  * */
  // 枚举对象
- const VnodeFlags = {
+const VnodeFlags = {
 	 // HTML 标签
 	 ELEMENT_HTML: 1,
 	 // svg 标签
